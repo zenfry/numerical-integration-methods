@@ -1,4 +1,4 @@
-#Numerical Integration Methods#
+# Numerical Integration Methods
 
 - Implements Riemann sums (midpoint), trapezoidal rule, and Simpson's rule from scratch, no scipy.integrate
 - Simpson's rule fits parabolas per interval vs. lines for trapezoidal, giving O(h⁴) vs O(h²) convergence
